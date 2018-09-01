@@ -1,0 +1,9 @@
+{% extends 'booktest/base_user.html' %}
+{% block head %}
+    <script>alert('這是用戶模板')</script>
+{% endblock %}
+{% block user_content %}
+<h1>用戶中心1</h1>
+    {{ uname }}
+{% endblock user_content %}
+
