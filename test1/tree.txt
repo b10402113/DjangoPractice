@@ -1,0 +1,12 @@
+列出資料夾 PATH
+磁碟區序號為 5A31-17FE
+C:.
+│  manage.py
+│  tree.txt
+│  
+└─test1
+        settings.py
+        urls.py
+        wsgi.py
+        __init__.py
+        
